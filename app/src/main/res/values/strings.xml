@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">GPS</string>
+    <string name="location_format">Lat: %f \nLong:%f</string>
+    <string name="no_gps_permission">Nincs jogosultság a GPS koordináta lekérdezéséhez.</string>
+    <string name="search_gps">Koordináta keresés…</string>
+</resources>
